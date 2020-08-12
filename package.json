@@ -4,7 +4,8 @@
   "description": "Punktesammelsystem für Clients ",
   "main": "main.js",
   "scripts": {
-    "test": "test -rena"
+    "test": "test -rena",
+    "start": "electron"
   },
   "repository": {
     "type": "git",
