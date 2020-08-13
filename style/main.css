@@ -1,3 +1,31 @@
 * {
     font-family: fantasy;
 }
+
+body {
+    background-color: #F2F0E4;
+    display: grid;
+
+}
+header {
+    background-color: #D95829;
+    padding: 5px;
+}
+nav {
+    background-color: #BF846F;
+}
+.btn_nav{
+    background-color: #BF846F;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    font-size: 30px;
+}
+.btn_nav:hover{
+    background-color: #A69177;
+    border: none;
+    cursor: pointer;
+}
+div{
+    background-color: #A69177;
+}
