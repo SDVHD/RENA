@@ -12,7 +12,7 @@
     "url": "git+https://github.com/SDVHD/RENA.git"
   },
   "keywords": [
-    "points"
+
   ],
   "author": "SDVware",
   "license": "ISC",
@@ -22,5 +22,6 @@
   "homepage": "https://github.com/SDVHD/RENA#readme",
   "devDependencies": {
     "electron": "^9.2.0"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" } 
 }
